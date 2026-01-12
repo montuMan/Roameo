@@ -1,0 +1,49 @@
+{
+  // Editor Configuration for Flutter Development
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "editor.rulers": [80],
+  
+  // Dart-specific settings
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.wordWrap": "off"
+  },
+  
+  // Flutter-specific settings
+  "dart.flutterHotReloadOnSave": "allIfDirty",
+  "dart.previewFlutterUiGuides": true,
+  "dart.previewFlutterUiGuidesCustomTracking": true,
+  "dart.flutterCreateAndroidLanguage": "kotlin",
+  "dart.flutterCreateIOSLanguage": "swift",
+  
+  // File associations
+  "files.associations": {
+    "*.yaml": "yaml",
+    "*.yml": "yaml",
+    "pubspec.yaml": "yaml",
+    "pubspec.lock": "yaml"
+  },
+  
+  // Auto-save configuration
+  "files.autoSave": "onFocusChange",
+  
+  // Terminal settings for Flutter development
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  
+  // Widget tree formatting
+  "dart.lineLength": 80,
+  "dart.insertArgumentPlaceholders": false,
+  "dart.completeFunctionCalls": true,
+  "dart.closingLabels": true,
+  
+  // Performance settings
+  "dart.analysisServerFolding": true,
+  "dart.enableSdkFormatter": true
+}
