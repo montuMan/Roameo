@@ -1,6 +1,6 @@
 # Roameo
 app to roam around like a romeo - only this time the juilet is but a cool cafe!
-# 🎰 Vegas Map Game
+# 🎰 Roameo
 
 An interactive location-based exploration game set in Las Vegas, built with Flutter.
 
